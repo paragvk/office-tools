@@ -13,6 +13,9 @@ import java.util.Random;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
+/**
+ * Prevents office communicator going yello (away)
+ */
 public class MouseMover {
 
     private static boolean doMove = true;
