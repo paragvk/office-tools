@@ -11,7 +11,9 @@ import java.awt.event.ActionListener;
 import java.util.Random;
 
 import javax.swing.ImageIcon;
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane; 
+
+// A test comment
 
 /**
  * Prevents office communicator going yello (away)
